@@ -13,10 +13,3 @@ document.getElementById('close-lightbox').addEventListener('click', () => {
 });
 
 
-// // Cerrar lightbox al hacer clic fuera de la imagen
-// document.getElementById('lightbox').addEventListener('click', (event) => {
-//     if (event.target === document.getElementById('lightbox')) {
-//         document.getElementById('lightbox').classList.remove('active');
-//     }
-// });
-
